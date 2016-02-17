@@ -32,4 +32,7 @@ everyone is aware of what changes to what files are being made.
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    It's probably good practice to always make changes in a branch that can then
+be pulled into the master when working on a new feature. One exmaple where you
+might want to edit the master directly would be for a very small change, such
+as updating the README file.
